@@ -1,0 +1,24 @@
+.landing-page {
+  align-items: center;
+    background-color: black;
+    background-image: url('../../assets/giphy.gif') ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 50em;
+    display:flex;
+    height: 100vh;
+    justify-content: center;
+}
+
+.enter {
+  color: rgb(139, 0, 209);
+  font-family: 'Get Schwifty';
+  font-size: 7em;
+  text-shadow: 3px 4px 6px rgb(98, 31, 255); /* change this to a darker color */
+  // text-shadow: 5px 5px 6px #00CE30
+
+}
+
+.link-to-enter {
+  text-decoration: none;
+}

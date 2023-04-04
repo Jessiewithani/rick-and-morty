@@ -1,7 +1,7 @@
 import RootLayout from './pages/RootLayout';
-import LandingPage from './components/LandingPage';
-import CharactersContainer from './components/CharactersContainer';
-import { createBrowserRouter, createRoutesFromElements, Route, RouterProvider, Link, Outlet } from 'react-router-dom';
+import LandingPage from './components/LandingPage/LandingPage';
+import CharactersContainer from './components/CharactersContainer/CharactersContainer';
+import { createBrowserRouter, createRoutesFromElements, Route, RouterProvider } from 'react-router-dom';
 
 function App() {
 
